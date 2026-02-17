@@ -1,8 +1,21 @@
 # open DaVinci tools
 Free tools to upgrade your experience and results with DaVinci Resolve
 
+
+
 # Installation of DaVinci Resolve
-## Windows ## 
+- [Windows](https://github.com/ArmerAlex/open-davinci-tools/edit/main/README.md#windows)
+- [Mac](https://github.com/ArmerAlex/open-davinci-tools/edit/main/README.md#mac)
+- [Linux](https://github.com/ArmerAlex/open-davinci-tools/edit/main/README.md#linux-tested-on-fedora-workstation-43)
+
+
+## Windows ##
+1. Install the latest version of DaVinci Resolve ([Download here](https://www.blackmagicdesign.com/products/davinciresolve)) for Windows x86
+2. Locate the .zip File in your Downloads Folder
+3. Right Click on the File and press Extract All
+4. Open the extracted folder and double-click the .exe file to start the installation.
+5. Go through the installation and accept the License Agreement
+6. DaVinci Resolve should be on your Computer!
 ## Mac
 ## Linux (tested on Fedora Workstation 43) ##
 #### 1. Install the latest version of DaVinci Resolve ([Download here](https://www.blackmagicdesign.com/products/davinciresolve)) for Linux and unzip ####
